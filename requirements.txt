@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+pymongo
+motor
+python-multipart
