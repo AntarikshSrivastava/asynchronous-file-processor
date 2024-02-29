@@ -23,7 +23,7 @@ Follow these instructions to get the project up and running on your local machin
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/AntarikshSrivastava/indexing-service-simulator.git
+    git clone https://github.com/AntarikshSrivastava/asynchronous-file-processor.git
     cd your-repo-name
     ```
 
